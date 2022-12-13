@@ -282,6 +282,11 @@ marquee a {
   gap:2px;
 }
 
+.animatedELSA{
+  display: block;
+  text-align: center;
+}
+
 /* .videoClip{
   flex: 1;
   text-align: center;
